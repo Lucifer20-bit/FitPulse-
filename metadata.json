@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "Streamlined gym workout companion, routine builder, active rest timer with sound cues, and PR progression tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
